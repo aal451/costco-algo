@@ -2,7 +2,7 @@
 
 This is a stock trading algorithm designed to trade Costco (COST) through the QuantConnect Platform, using the Charles Schwab as the underlying brokerage.
 
-For code, click [here](https://github.com/aal451/costco-algo/blob/main/strategy.py)
+For code, click [here](https://github.com/aal451/costco-algo/blob/main/strategy.py).
 
 ## Inspiration
 
