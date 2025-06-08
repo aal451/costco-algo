@@ -57,8 +57,8 @@ With all of this development in mind, I then decided to study the QuantConnect p
 To evaluate this strategy, since I did not have enough capital on my own at the time to execute live, I decided to use QuantConnect's backtesting feature.
 
 If you want to take a look at the results for yourself through official QuantConnect reports hosted on the platform:
-For a report with nicer, interactive charts: https://www.quantconnect.cloud/backtest/744b34ce7bab835c69727e7c26a73924/?theme=chrome
-For a report with more in-depth statistics (click the "statistics" tab at the top): https://www.quantconnect.com/terminal/cache/embedded_backtest_e0406d06d2b8f01e8abe86a14f4c9b14.html
+* For a report with nicer, interactive charts: https://www.quantconnect.cloud/backtest/744b34ce7bab835c69727e7c26a73924/?theme=chrome
+* For a report with more in-depth statistics (click the "statistics" tab at the top): https://www.quantconnect.com/terminal/cache/embedded_backtest_e0406d06d2b8f01e8abe86a14f4c9b14.html
 
 
 Results from running the backtest:
